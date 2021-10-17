@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Jerry Loves",
+      "expertize": "Doctorate",
+      "img": "https://images.unsplash.com/photo-1581093446763-7fd358f5a69b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZW5naW5lZXJ8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 2,
+      "name": "Robert Shon",
+      "expertize": "Marine Engineer",
+      "img": "https://images.unsplash.com/photo-1581094368940-5a08c24fd0a7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGVuZ2luZWVyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 3,
+      "name": "Kelly Merry",
+      "expertize": "Macanical Engineer",
+      "img": "https://images.unsplash.com/photo-1581091224003-01e7c2e69f6f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fGVuZ2luZWVyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 4,
+      "name": "Jack Smith",
+      "expertize": "Tel Engineer",
+      "img": "https://images.unsplash.com/photo-1570470836811-78ef04bb23d3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGVuZ2luZWVyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 5,
+      "name": "Umar Faruk",
+      "expertize": "Sponser",
+      "img": "https://images.unsplash.com/photo-1621905252472-943afaa20e20?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGVuZ2luZWVyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+  ]

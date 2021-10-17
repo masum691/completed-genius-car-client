@@ -11,13 +11,17 @@ const Services = () => {
         .then(data => setServices(data))
     }, [])
     return (
-        <div className="services-container">
+        <div>
+            <h2 className="mt-5 text-primary">Our Services</h2>
+            <hr className="w-25 mx-auto mb-3" />
+            <div className="services-container container">
             {
                 services.map(service => <Service
                 key={service.id}
                 service={service}
                 ></Service>)
             }
+        </div>
         </div>
     );
 };

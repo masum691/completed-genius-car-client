@@ -1,13 +1,11 @@
 .service-container img{
-    width: 400px;
-    height: 250px;
-    border-radius: 4px;
-    box-shadow: 10px 10px 30px rgb(17, 17, 17);
+    height: 200px;
+    width: 100%;
 }
-.service-container{
+/* .service-container{
     padding: 20px;
     box-shadow: 10px 10px 30px rgb(250, 250, 250);
     background-color: rgb(8, 8, 8);
     color: #fff;
     border-radius: 4px;
-}
+} */
