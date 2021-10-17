@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "Replace Tire",
+      "price": 1000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur incidunt ipsum voluptas consequuntur ducimus earum sunt officia, est accusamus quod dolor odio.",
+      "time": 3,
+      "img": "https://images.pexels.com/photos/2244746/pexels-photo-2244746.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 2,
+      "name": "CNG Repair",
+      "price": 150,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur incidunt ipsum voluptas consequuntur ducimus earum sunt officia, est accusamus quod dolor odio.",
+      "time": 3,
+      "img": "https://images.unsplash.com/photo-1625047509248-ec889cbff17f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2FyJTIwcmVwYWlyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 3,
+      "name": "Truck repair",
+      "price": 600,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur incidunt ipsum voluptas consequuntur ducimus earum sunt officia, est accusamus quod dolor odio.",
+      "time": 3,
+      "img": "https://images.unsplash.com/photo-1593699199342-59b40e08f0ac?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Y2FyJTIwcmVwYWlyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 4,
+      "name": "AC repair",
+      "price": 5000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur incidunt ipsum voluptas consequuntur ducimus earum sunt officia, est accusamus quod dolor odio.",
+      "time": 3,
+      "img": "https://images.unsplash.com/photo-1597766353939-9d782bde7a2f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNhciUyMHJlcGFpcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 5,
+      "name": "Aeroplane repair",
+      "price": 16000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur incidunt ipsum voluptas consequuntur ducimus earum sunt officia, est accusamus quod dolor odio.",
+      "time": 3,
+      "img": "https://images.unsplash.com/photo-1486006920555-c77dcf18193c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fGNhciUyMHJlcGFpcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 6,
+      "name": "TV repair",
+      "price": 140,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur incidunt ipsum voluptas consequuntur ducimus earum sunt officia, est accusamus quod dolor odio.",
+      "time": 3,
+      "img": "https://images.unsplash.com/photo-1565534384095-5d329610fa16?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fGNhciUyMHJlcGFpcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+  ]
