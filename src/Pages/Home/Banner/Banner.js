@@ -1,10 +1,11 @@
 import React from 'react';
 import { Carousel } from 'react-bootstrap';
+import './Banner.css'
 
 const Banner = () => {
     return (
         <>
-            <Carousel>
+            <Carousel className="carousel-container">
                 <Carousel.Item>
                     <img
                         className="d-block w-100"

@@ -11,7 +11,7 @@ const Expert = (props) => {
                         <img className="service-img" src={img} class="card-img-top" alt="..." />
                         <div class="card-body">
                             <h5 class="card-title">{name}</h5>
-                            <h5>- {expertize}</h5>
+                            <h5 className="text-danger">- {expertize}</h5>
                         </div>
                     </div>
                 </div>

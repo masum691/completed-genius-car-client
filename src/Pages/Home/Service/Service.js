@@ -1,9 +1,10 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Service.css'
 
 const Service = (props) => {
     console.log(props)
-    const { name, img, description, price } = props.service;
+    const { id, name, img, description, price } = props.service;
     return (
         <div className="service-container">
             {/* <img src={img} alt="" />
@@ -18,7 +19,16 @@ const Service = (props) => {
                         <h5 class="card-title">{name}</h5>
                         <p class="card-text">{description}</p>
                         <hr className="w-100" />
-                        <h5>$ {price}</h5>
+                        <div className="d-flex justify-content-between align-items-center">
+                            <div>
+                                <h5 className="text-danger">$ {price}</h5>
+                            </div>
+                            <div>
+                                <Link to={`/booking/${id}`}>
+                                    <button className="btn btn-warning btn-sm fs-6">Buy Service</button>
+                                </Link>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
