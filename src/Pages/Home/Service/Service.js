@@ -4,7 +4,7 @@ import './Service.css'
 
 const Service = (props) => {
     console.log(props)
-    const { id, name, img, description, price } = props.service;
+    const { _id, name, img, description, price } = props.service;
     return (
         <div className="service-container">
             {/* <img src={img} alt="" />
@@ -24,7 +24,7 @@ const Service = (props) => {
                                 <h5 className="text-danger">$ {price}</h5>
                             </div>
                             <div>
-                                <Link to={`/booking/${id}`}>
+                                <Link to={`/booking/${_id}`}>
                                     <button className="btn btn-warning btn-sm fs-6">Buy Service</button>
                                 </Link>
                             </div>

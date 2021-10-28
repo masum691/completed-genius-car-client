@@ -6,12 +6,12 @@ const Services = () => {
     const [services, setServices] = useState([]);
 
     useEffect( () => {
-        fetch('service.json')
+        fetch('http://localhost:5000/services')
         .then(res => res.json())
         .then(data => setServices(data))
     }, [])
     return (
-        <div>
+        <div id="services">
             <h2 className="mt-5 text-primary">Our Services</h2>
             <hr className="w-25 mx-auto mb-3" />
             <div className="services-container container">

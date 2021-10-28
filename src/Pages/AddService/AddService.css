@@ -1,0 +1,26 @@
+.form-container form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.form-container form input, textarea{
+    width: 35%;
+    margin-top: 10px;
+    border: none;
+    border: 1.6px solid rgb(29, 154, 196);
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 10px 10px 30px rgb(250, 250, 250);
+}
+.form-container .submit{
+    background-color: rgb(29, 154, 196);
+    color: white;
+    font-size: 18px;
+}
+.form-container h2{
+    margin-top: 50px;
+    margin-bottom: 20px;
+
+}
